@@ -1,6 +1,7 @@
 apiVersion: v1
 description: GitLab running on Kubernetes suitable for demos
 name: kubernetes-gitlab-demo
+deprecated: true
 version: 0.1.29
 keywords:
 - git
